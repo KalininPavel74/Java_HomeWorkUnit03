@@ -1,0 +1,57 @@
+2023.02.19 12:35:22 JavaUnit03KalininPavel loggerInit	INFO  		
+
+------------------------------------------------------------
+
+2023.02.19 12:35:22 JavaUnit03KalininPavel loggerInit	INFO  		Логирование инициализировано
+2023.02.19 12:35:22 JavaUnit03KalininPavel main	WARNING  Задание №1 Реализовать алгоритм сортировки слиянием.
+
+2023.02.19 12:35:22 JavaUnit03KalininPavel getDataFromUser	WARNING  Введите кол-во элементов массива (натуральное число): 
+2023.02.19 12:35:24 JavaUnit03KalininPavel getDataFromUser	INFO  Пользователь ввел : 8
+2023.02.19 12:35:24 JavaUnit03KalininPavel main	WARNING  Числовой массив перед сортировкой:
+2023.02.19 12:35:24 JavaUnit03KalininPavel main	WARNING  -95.17, 5.59, -99.29, -30.82, 50.89, 18.82, 8.31, 41.85
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 0, m = 3, e = 7
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 0, m = 1, e = 3
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 0, m = 0, e = 1
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 0, j = 1, k = 0
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 0, j = 1, k = 0 (-95,170000<=5,590000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование правой i= 1, j = 1, k = 1, m = 0
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 0, e = 1
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 2, m = 2, e = 3
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 2, j = 3, k = 2
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 2, j = 3, k = 2 (-99,290000<=-30,820000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование правой i= 3, j = 3, k = 3, m = 2
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 2, e = 3
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 0, j = 2, k = 0
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  правая i= 0, j = 2, k = 0 (-95,170000>-99,290000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 0, j = 3, k = 1 (-95,170000<=-30,820000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  правая i= 1, j = 3, k = 2 (5,590000>-30,820000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование левой i= 1, j = 4, k = 3, m = 1
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 0, e = 3
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 4, m = 5, e = 7
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 4, m = 4, e = 5
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 4, j = 5, k = 4
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  правая i= 4, j = 5, k = 4 (50,890000>18,820000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование левой i= 4, j = 6, k = 5, m = 4
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 4, e = 5
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Разбиение. b = 6, m = 6, e = 7
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 6, j = 7, k = 6
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 6, j = 7, k = 6 (8,310000<=41,850000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование правой i= 7, j = 7, k = 7, m = 6
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 6, e = 7
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 4, j = 6, k = 4
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  правая i= 4, j = 6, k = 4 (18,820000>8,310000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 4, j = 7, k = 5 (18,820000<=41,850000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  правая i= 5, j = 7, k = 6 (50,890000>41,850000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование левой i= 5, j = 8, k = 7, m = 5
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 4, e = 7
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Перед циклом i = 0, j = 4, k = 0
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 0, j = 4, k = 0 (-99,290000<=8,310000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 1, j = 4, k = 1 (-95,170000<=8,310000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 2, j = 4, k = 2 (-30,820000<=8,310000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  левая i= 3, j = 4, k = 3 (5,590000<=8,310000)
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  копирование правой i= 4, j = 4, k = 4, m = 3
+2023.02.19 12:35:24 JavaUnit03KalininPavel mergeSort	INFO  Вернуть данные из временного массива. b = 0, e = 7
+2023.02.19 12:35:24 JavaUnit03KalininPavel main	WARNING  Числовой массив после сортировки:
+2023.02.19 12:35:24 JavaUnit03KalininPavel main	WARNING  -99.29, -95.17, -30.82, 5.59, 8.31, 18.82, 41.85, 50.89
+2023.02.19 12:35:24 JavaUnit03KalininPavel main	INFO  Проверка результата.
+2023.02.19 12:35:24 JavaUnit03KalininPavel main	INFO  Программа закончена.
